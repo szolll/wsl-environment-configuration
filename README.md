@@ -32,5 +32,10 @@ Run the script:
 ## Usage
 After running the script, restart your WSL session for all changes to take effect.
 
+## Tested on
+
+Windows 11 WSL2
+Ubuntu 22.04
+
 ## Contributions
 Feel free to open issues or submit pull requests if you have suggestions or improvements.
