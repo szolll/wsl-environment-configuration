@@ -40,3 +40,16 @@ Ubuntu 22.04
 
 ## Contributions
 Feel free to open issues or submit pull requests if you have suggestions or improvements.
+
+# Author     
+Daniel sol
+
+# Git
+github.com/szolll
+
+# Email
+daniel.sol@gmail.com
+
+# Version   
+1.1
+
