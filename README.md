@@ -15,19 +15,20 @@ This repository contains a Bash script to automate the setup and configuration o
 ## Installation
 
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/yourusername/wsl-setup-script.git
    cd wsl-setup-script
-   
+   ```
 Make the script executable:
 
-
+```
   chmod +x wsl-setup.sh
-
+```
 Run the script:
 
-
+```
   ./wsl-setup.sh
+```
 
 ## Usage
 After running the script, restart your WSL session for all changes to take effect.
