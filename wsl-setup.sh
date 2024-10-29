@@ -120,7 +120,7 @@ function configure_dns() {
 nameserver 8.8.8.8
 nameserver 1.1.1.1
 nameserver 4.2.2.2
-search eosz.nl szol.nl voclarion.nl theipcompany.nl
+search danielsol.nl
 EOL'
   if [[ $? -eq 0 ]]; then
     checklist["Configure DNS"]="${GREEN}✔️${NO_COLOR}"
